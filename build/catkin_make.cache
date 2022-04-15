@@ -1,0 +1,2 @@
+bluerov_apps:k21_controller:logitech_f710_ros/logitech_f710_ros:teleop_twist_joy
+-DCATKIN_DEVEL_PREFIX=/home/rizky/k21_robocon/devel -DCMAKE_INSTALL_PREFIX=/home/rizky/k21_robocon/install -G Unix Makefiles

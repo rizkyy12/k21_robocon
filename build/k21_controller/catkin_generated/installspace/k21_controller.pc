@@ -1,0 +1,8 @@
+prefix=/home/rizky/k21_robocon/install
+
+Name: k21_controller
+Description: Description of k21_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
